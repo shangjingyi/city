@@ -1,0 +1,13 @@
+<div id="my">
+    <form>
+        <input type="text" placeholder="请输入手机号码/邮箱" />
+        <input type="text" placeholder="请输入密码" /> 
+        <input type="button" value="登录"/>
+    </form>
+        <a href="#">忘记密码？</a>   
+        <p>您还没有会员账号？<a>马上注册</a></p>
+
+
+
+
+</div>

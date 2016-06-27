@@ -1,0 +1,190 @@
+<div class="m-home" spa-widget="scroll">
+
+
+  <div>        
+    <div class="banner">
+        <div class="swiper-container" id="home-banner">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><p><img src="/city-dish/images/index4.gif"/></p></div>
+                <div class="swiper-slide"><p><img src="/city-dish/images/index2.gif"/></p></div>
+                <div class="swiper-slide"><p><img src="/city-dish/images/index5.gif"/></p></div>
+            </div>
+            <!-- 如果需要分页器 -->
+            <div class="swiper-pagination"></div>
+        </div>           
+    </div>
+
+  
+  
+  <div class="swiper-container" id="swiper-main">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+        
+    <div class="search">
+        <ul>
+            <li>
+                <i class="yo-ico">&#xe638</i>
+            </li>
+            <li>
+                <form>
+                    <input type="text" placeholder="搜索你所喜欢的内容" disabled="" />
+                </form>
+            </li>
+            <li>
+                <i class="yo-ico">&#xe638</i>
+            </li>
+        </ul>           
+    </div>
+    <nav>
+        <ul>
+            <li>
+                <img src="/city-dish/images/nav1.jpg"/>
+                <p>配送须知</p>
+            </li>
+            <li>
+            </li>
+            <li>
+                <img src="/city-dish/images/nav2.jpg"/>
+                <p>优惠活动</p>
+            </li> 
+            <li>
+            </li>                                       
+            <li>
+                <img src="/city-dish/images/nav3.jpg"/>
+                <p>一元秒杀</p>
+            </li>
+            <li>
+            </li>                   
+            <li>
+                <img src="/city-dish/images/nav4.jpg"/>
+                <p>免费活动</p>
+            </li>                                        
+        </ul>
+    </nav>
+    <section>
+        <ul>
+            <li>
+                <img src="/city-dish/images/pic1.jpg"/>
+            </li>
+            <li>
+                <ul>
+                    <li>
+                        <img src="/city-dish/images/pic2.jpg" />
+                        <b>蔬菜.水果</b>
+                    </li>
+                    <li></li>
+                    <li>
+                        <img src="/city-dish/images/pic3.jpg" />
+                        <b>蔬菜.水果</b>
+                    </li>
+                </ul>    
+                <ul>
+                    <li>
+                        <img src="/city-dish/images/pic3.jpg" />
+                        <b>蔬菜.水果</b>
+                    </li>
+                    <li></li>
+                    <li>
+                        <img src="/city-dish/images/pic2.jpg" />
+                        <b>蔬菜.水果</b>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <img src="/city-dish/images/pic2.jpg" />
+                        <b>蔬菜.水果</b>
+                    </li>
+                    <li></li>
+                    <li>
+                        <img src="/city-dish/images/pic3.jpg" />
+                        <b>蔬菜.水果</b>
+                    </li>
+                </ul>                       
+            </li>
+            <li>
+                <img src="/city-dish/images/pic1.jpg"/>
+            </li>
+            <li>
+                <img src="/city-dish/images/pic1.jpg"/>
+            </li>
+            <li>
+                <div>
+                    <div class="swiper-container" id="gridding-swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="grid">
+                                    <img src="/city-dish/images/pic4.jpg" />
+                                    <p>精选紫甘蓝</P>
+                                </div>                            
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="grid">
+                                    <img src="/city-dish/images/pic5.jpg" />
+                                    <p>精选紫甘蓝</P>
+                                </div>                            
+                            </div>                            
+                            <div class="swiper-slide">
+                                <div class="grid">
+                                    <img src="/city-dish/images/pic4.jpg" />
+                                    <p>精选紫甘蓝</P>
+                                </div>                            
+                            </div>                            
+                            <div class="swiper-slide">
+                                <div class="grid">
+                                    <img src="/city-dish/images/pic5.jpg" />
+                                    <p>精选紫甘蓝</P>
+                                </div>                            
+                            </div>                            
+                            <div class="swiper-slide">
+                                <div class="grid">
+                                    <img src="/city-dish/images/pic4.jpg" />
+                                    <p>精选紫甘蓝</P>
+                                </div>                            
+                            </div>                            
+                            <div class="swiper-slide">
+                                <div class="grid">
+                                    <img src="/city-dish/images/pic5.jpg" />
+                                    <p>精选紫甘蓝</P>
+                                </div>                            
+                            </div>                            
+                            <div class="swiper-slide">
+                                <div class="grid">
+                                    <img src="/city-dish/images/pic4.jpg" />
+                                    <p>精选紫甘蓝</P>
+                                </div>                            
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <img src="/city-dish/images/pic1.jpg"/>
+            </li>
+        <ul>
+    </section>
+    </div>
+        <div class="swiper-slide">Slide 2</div>
+        <div class="swiper-slide">Slide 3</div>
+    </div>
+</div> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>

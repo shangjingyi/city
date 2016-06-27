@@ -1,0 +1,32 @@
+<div class="m-index">
+    <header>
+        <h1>
+            <img src="/city-dish/images/logo.png" />
+        </h1>
+    </header>
+    <div class="l-container" ></div>
+    <footer>
+        <ul>
+            <li data-tag="home" action-type="swiper.tab" class="active">
+                <i class="yo-ico">&#xe60c</i>
+                <b>首页</b>
+            </li>
+            <li data-tag="list" action-type="swiper.tab">
+                <i class="yo-ico">&#xe638</i>
+                <b>产品列表</b>
+            </li>
+            <li data-tag="shop" action-type="swiper.tab"> 
+                <i class="yo-ico">&#xe629</i>
+                <b>商铺</b>
+            </li>
+            <li data-tag="my" action-type="swiper.tab"> 
+                <i class="yo-ico">&#xe664</i>
+                <b>会员中心</b>
+            </li>
+            <li data-tag="more" action-type="swiper.tab"> 
+                <i class="yo-ico">&#xe633</i>
+                <b>更多</b>
+            </li>
+        </ul>
+    </footer>
+</div>
